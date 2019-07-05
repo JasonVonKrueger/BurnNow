@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_skill">
+    <cmn_skill action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Jelly</name>
+        <sys_class_name>cmn_skill</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2019-07-04 02:25:23</sys_created_on>
+        <sys_id>8a3b7f2fdbd6330040dc9006db96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jelly</sys_name>
+        <sys_package display_value="BurnNow" source="x_159204_burnnow">b37f83d8dbe0330040dc9006db9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BurnNow">b37f83d8dbe0330040dc9006db9619b9</sys_scope>
+        <sys_update_name>cmn_skill_8a3b7f2fdbd6330040dc9006db96191e</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 02:25:23</sys_updated_on>
+    </cmn_skill>
+</record_update>

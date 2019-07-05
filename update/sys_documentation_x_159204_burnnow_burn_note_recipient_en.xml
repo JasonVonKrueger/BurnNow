@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="recipient" label="Recipient" language="en" table="x_159204_burnnow_burn_note">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>recipient</element>
+            <help/>
+            <hint/>
+            <label>Recipient</label>
+            <language>en</language>
+            <name>x_159204_burnnow_burn_note</name>
+            <plural>Recipients</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rpoore_admin</sys_created_by>
+            <sys_created_on>2019-03-28 21:05:30</sys_created_on>
+            <sys_id>59ef0fd8dbe0330040dc9006db96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Recipient</sys_name>
+            <sys_package display_value="BurnNow" source="x_159204_burnnow">b37f83d8dbe0330040dc9006db9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BurnNow">b37f83d8dbe0330040dc9006db9619b9</sys_scope>
+            <sys_update_name>sys_documentation_x_159204_burnnow_burn_note_recipient_en</sys_update_name>
+            <sys_updated_by>rpoore_admin</sys_updated_by>
+            <sys_updated_on>2019-03-28 21:05:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

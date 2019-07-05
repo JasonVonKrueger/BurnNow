@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2019-03-28 21:04:42</sys_created_on>
+        <sys_id>b9bf0bd8dbe0330040dc9006db9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_burnnow_burn_note.x_159204_burnnow.burn_note_user</sys_name>
+        <sys_package display_value="BurnNow" source="x_159204_burnnow">b37f83d8dbe0330040dc9006db9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BurnNow">b37f83d8dbe0330040dc9006db9619b9</sys_scope>
+        <sys_security_acl display_value="x_159204_burnnow_burn_note">29bf0bd8dbe0330040dc9006db961994</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b9bf0bd8dbe0330040dc9006db9619a3</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 21:04:42</sys_updated_on>
+        <sys_user_role display_value="x_159204_burnnow.burn_note_user" name="x_159204_burnnow.burn_note_user">29bf0798dbe0330040dc9006db9619ea</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Burn Note" max_length="40" name="x_159204_burnnow_burn_note" type="collection">
+        <element label="Note" max_length="1024" name="note" type="string_full_utf8"/>
+        <element label="Recipient" max_length="32" name="recipient" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="recipient"/>
+        </index>
+    </element>
+</database>
